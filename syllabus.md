@@ -1,32 +1,34 @@
 
 
-## COMM3130: Computational Text Analysis for Communication Research
+# COMM3130: Computational Text Analysis for Communication Research
 
 
-### Fall 2024
-
-1.  Tue/Thur 1:45pm-3:14pm  (Room: ASC108)
-
-2.  Professor: Dr. Matt O'Donnell (he/him/his)
-
-    -   **Email**: mbod@asc.upenn.edu
-    -   **Office hours**: Virtual online meetings through
-    
-    Zoom (email to set up time and see Canvas Announcements for specific
-    times)
+## Fall 2024
 
 
-# **Coding Assistant**: Emma Luo
+### Tue/Thur 1:45pm-3:14pm  (Room: ASC108)
+
+
+### Professor: Dr. Matt O'Donnell (he/him/his)
+
+-   **Email**: mbod@asc.upenn.edu
+-   **Office hours**: Virtual online meetings through
+
+Zoom (email to set up time and see Canvas Announcements for specific
+times)
+
+
+### **Coding Assistant**: Emma Luo
 
 -   **Email**: emmaluo@sas.upenn.edu
 
 ---
 
 
-## IMPORTANT NOTICES
+# IMPORTANT NOTICES
 
 
-### 1. HEALTH AND WELLNESS
+## 1. HEALTH AND WELLNESS
 
 -   Covid-19 and other respiratory viruses are continuing to evolve and
     infection and hospitalization rates continue to show depressing
@@ -44,7 +46,7 @@
     **Please respect each other's choices on this issue**.
 
 
-### 2. ATTENDANCE, ZOOM AND CLASS RECORDINGS
+## 2. ATTENDANCE, ZOOM AND CLASS RECORDINGS
 
 -   **ZOOM AND CLASS ATTENDANCE WHEN UNWELL** - If you feel sick or are
     showing symptoms of Covid-19, flu or cold then **PLEASE BE
@@ -61,7 +63,7 @@
 ---
 
 
-## Course Description, Goals and Objectives
+# Course Description, Goals and Objectives
 
 In this hands-on course students will learn how to manage large textual
 datasets (e.g. social media, news stories, song lyrics, YouTube comments) to
@@ -107,7 +109,7 @@ in-demand jobs.
 ---
 
 
-## Textbooks and resources
+# Textbooks and resources
 
 -   The main readings on corpus linguistics and computational text analysis will come from:
     -   Baker, P. (2006) *Using Corpora in Discourse Analysis*. London:
@@ -135,7 +137,7 @@ in-demand jobs.
 ---
 
 
-## Assessment
+# Assessment
 
 1.  **Complete the assigned readings and corpus building exercises (10%)**
     -   Readings for each week will be posted on Canvas when electronic
@@ -196,7 +198,7 @@ in-demand jobs.
         manageable will be discussed during the first few weeks of class.
 
 
-## Note about learning programming
+# Note about learning programming
 
 -   A central goal of this class is to help students begin to develop
 
@@ -220,12 +222,12 @@ and modifying Python code examples that you can find on the web etc.
 ---
 
 
-## Course Schedule
+# Course Schedule
 
 -   **N.B.** - This is a tentative schedule that is subject to change
 
 
-### Week 1 - Overview
+## Week 1 - Overview
 
 -   Tue 08/27/24 - **Course overview and Setup**
     -   Getting setup on class JupyterHub server
@@ -244,7 +246,7 @@ and modifying Python code examples that you can find on the web etc.
         -   Indexing and Slicing
 
 
-### Week 2 - Introduction
+## Week 2 - Introduction
 
 -   Tue 09/03/24 - **Introduction to Corpus Linguistics and NLP**
     -   **IMPORTANT: Make sure to review the notebook `Python_Basics_Part1` before class (a video will be posted to Canvas)**
@@ -279,7 +281,7 @@ and modifying Python code examples that you can find on the web etc.
     -   **Assignment 1**: Working with Python String Objects
 
 
-### Week 3 - What is a corpus?
+## Week 3 - What is a corpus?
 
 -   **IMPORTANT: Make sure to review the notebook `Python_Basics_Part2` before class (a video will be posted to Canvas)**
 
@@ -310,7 +312,7 @@ and modifying Python code examples that you can find on the web etc.
     -   **Assignment 2**: Working with Python lists
 
 
-### Week 4 - Frequency lists
+## Week 4 - Frequency lists
 
 -   Tue 09/17/24 - **How and what to count**
     -   *Topics*:
@@ -340,7 +342,7 @@ and modifying Python code examples that you can find on the web etc.
     -   **Assignment 3**: Working with Python lists and `Counter` objects
 
 
-### Week 5 - Finding, building and using corpora - Part 1
+## Week 5 - Finding, building and using corpora - Part 1
 
 -   Tue 09/24/24 - **Corpus compilation**
     -   *Topics:*
@@ -368,7 +370,7 @@ and modifying Python code examples that you can find on the web etc.
     -   **Assignment 4**: Working with Python dictionaries
 
 
-### Week 6 - Corpus organization and data structures
+## Week 6 - Corpus organization and data structures
 
 -   Tue 10/01/24 - **Data structures for corpus organization\***
     -   Python Basics Part 4
@@ -387,7 +389,7 @@ and modifying Python code examples that you can find on the web etc.
 -   Thur 10/03/24 - **NO CLASS - FALL BREAK**
 
 
-### Week 7 - Incorporating Context Part 1: *Concordance Analysis*
+## Week 7 - Incorporating Context Part 1: *Concordance Analysis*
 
 -   Tue 10/08/24 - **Working with KWIC concordances**
     -   *Topics*:
@@ -410,7 +412,7 @@ and modifying Python code examples that you can find on the web etc.
         -   Analysis KWIC concordances
 
 
-### Week 8 - Finding, building and using corpora - Part 2
+## Week 8 - Finding, building and using corpora - Part 2
 
 -   Tue 10/15/24 - **Online corpus compilation**
     -   *Topics*:
@@ -438,7 +440,7 @@ and modifying Python code examples that you can find on the web etc.
         -   accessing the genius.com API from Python
 
 
-### Week 9 - Incorporating Context Part 2: *Collocation*
+## Week 9 - Incorporating Context Part 2: *Collocation*
 
 -   Tue 10/22/24 - **Words *have* friends**
     -   *Topics*:
@@ -472,7 +474,7 @@ and modifying Python code examples that you can find on the web etc.
         -   displaying collocates as a network
 
 
-### Week 10 - Keyness Analysis
+## Week 10 - Keyness Analysis
 
 -   Tue 10/29/24 - **Discovering distinctive vocabulary**
     -   *Topics*:
@@ -494,7 +496,7 @@ and modifying Python code examples that you can find on the web etc.
         -   Filtering and analyzing keyness lists
 
 
-### Week 11 - Introduction to NLP
+## Week 11 - Introduction to NLP
 
 -   Tue 11/05/24 - **Core concepts and techniques in NLP**
     -   *Topics*:
@@ -525,7 +527,7 @@ and modifying Python code examples that you can find on the web etc.
         -   POS tagging and filtering
 
 
-### Week 12 - NLP: Affect and Sentiment analysis
+## Week 12 - NLP: Affect and Sentiment analysis
 
 -   Tue 11/12/24 - **Measuring emotion in text**
     -   *Topics*:
@@ -555,7 +557,7 @@ and modifying Python code examples that you can find on the web etc.
         -   Corpus collection/building and organization
 
 
-### Week 13 - NLP: Named Entity Recognition (NER): Who, what, when and
+## Week 13 - NLP: Named Entity Recognition (NER): Who, what, when and
 
 where?
 
@@ -583,7 +585,7 @@ where?
     -   Visualizing and exploring the results
 
 
-### Week 14 - NLP: Topic models
+## Week 14 - NLP: Topic models
 
 -   Tue 11/26/24 - **Discovering clusters of words in text collections**
     -   *Topics*:
@@ -594,7 +596,7 @@ where?
 -   Thur 11/28/24 - **NO CLASS: Thanksgiving Break**
 
 
-### Week 15 - Class projects
+## Week 15 - Class projects
 
 -   Tue 12/03/24 - **Project presentations**
 
