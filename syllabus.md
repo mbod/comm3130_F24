@@ -122,6 +122,12 @@ in-demand jobs.
     -   Grimmer, J., Roberts, M.E. and Stewart, B.M. (2022). *Text as
         Data: A New Framework for Machine Learning and the Social
         Sciences*. Princeton, NJ: Princeton University Press
+    
+    -   Hovy, D. (2000). *Text Analysis in Python for Social Scientists
+        Discovery and Exploration*. Cambridge: Cambridge University Press
+    
+    -   Hovy, D. (2022). *Text Analysis in Python for Social Scientists:
+        Prediction and Classification*. Cambridge: Cambridge University Press
 
 -   and on Python programming and NLP concepts from:
     -   Bird, S., Klein, E. & Loper, E. *Natural Language Processing with
@@ -278,30 +284,30 @@ and modifying Python code examples that you can find on the web etc.
         
         -   Reading text files into string objects.
     
-    -   **Assignment 1**: Working with Python String Objects
+    -   Available: **Assignment 1**: *Working with Python String Objects*
 
 
 ## Week 3 - What is a corpus?
 
--   **IMPORTANT: Make sure to review the notebook `Python_Basics_Part2` before class (a video will be posted to Canvas)**
+-   **IMPORTANT: Make sure to review the notebook `Python_Basics_Part2`
+    before class (a video will be posted to Canvas)**
 
 -   Tue 09/10/24 - **Types of corpora**
-
--   *Topics*:
-    -   What is a corpus?
-    -   Types of corpus
-        -   *general vs specialized*
-        -   *matched genre vs variety*
-        -   *synchronic vs diachronic*
-
--   *Coding*:
-    -   Working with sequences using Python `list` objects
-    -   List indexing and slicing
-
--   **Readings**: *Baker Chs. 1&2*; *NLTK Book Ch. 1 (sections 1, 2 & 4 )*
-    <http://www.nltk.org/book/ch01.html>
-
--   **Assignment 1 DUE 11.59pm** - Submit through JupyterHub
+    -   *Topics*:
+        -   What is a corpus?
+        -   Types of corpus
+            -   *general vs specialized*
+            -   *matched genre vs variety*
+            -   *synchronic vs diachronic*
+    
+    -   *Coding*:
+        -   Working with sequences using Python `list` objects
+        -   List indexing and slicing
+    
+    -   **Readings**: *Baker Chs. 1&2*; *NLTK Book Ch. 1 (sections 1, 2 & 4 )*
+        <http://www.nltk.org/book/ch01.html>
+    
+    -   **Assignment 1 DUE 11.59pm** - Submit through JupyterHub
 
 -   Thur 09/12/24 - **Lab session 2**
     -   *Topics*:
@@ -313,6 +319,9 @@ and modifying Python code examples that you can find on the web etc.
 
 
 ## Week 4 - Frequency lists
+
+-   **IMPORTANT: Make sure to review the notebook `Python_Basics_Part3`
+    before class (a video will be posted to Canvas)**
 
 -   Tue 09/17/24 - **How and what to count**
     -   *Topics*:
@@ -343,6 +352,9 @@ and modifying Python code examples that you can find on the web etc.
 
 
 ## Week 5 - Finding, building and using corpora - Part 1
+
+-   **IMPORTANT: Make sure to review the notebook `Python_Basics_Part4`
+    before class (a video will be posted to Canvas)**
 
 -   Tue 09/24/24 - **Corpus compilation**
     -   *Topics:*
