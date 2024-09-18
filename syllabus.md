@@ -321,7 +321,7 @@ and modifying Python code examples that you can find on the web etc.
 ## Week 4 - Frequency lists
 
 -   **IMPORTANT: Make sure to review the notebook `Python_Basics_Part3`
-    before class (a video will be posted to Canvas)**
+    before class (videos are posted to Canvas)**
 
 -   Tue 09/17/24 - **How and what to count**
     -   *Topics*:
@@ -394,7 +394,8 @@ and modifying Python code examples that you can find on the web etc.
         -   Short texts
             -   Twitter example
         
-        -   Structured documents \` \* Lexis-Nexis documents in dictionaries
+        -   Structured documents
+            -   Lexis-Nexis documents in dictionaries
     
     -   **Assignment 4 DUE 11.59pm** - submit through JupyterHub
 
