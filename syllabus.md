@@ -425,37 +425,9 @@ and modifying Python code examples that you can find on the web etc.
         -   Analysis KWIC concordances
 
 
-## Week 8 - Finding, building and using corpora - Part 2
+## Week 8 - Incorporating Context Part 2: *Collocation*
 
--   Tue 10/15/24 - **Online corpus compilation**
-    -   *Topics*:
-        -   Using APIs to compile a corpus (e.g. Twitter, Genius.com)
-        -   Understanding web page structures
-        -   HTML and CSS basics
-        -   Using web scraping and crawling to build a corpus
-    
-    -   *Coding*:
-        -   Using `requests` for web page and API access
-        -   Using `BeautifulSoup` to extract text from HTML
-        -   Accessing an API from Python
-        -   Working with JSON in Python
-    
-    -   **Readings**: *Baker Chs. 2*; *NLTK Book Ch. 3*
-        <http://www.nltk.org/book/ch03.html>
-
--   Thur 10/17/24 - **Lab session 6**
-    -   **Final Project Planning**
-    
-    -   *Topics*:
-        -   downloading web pages (using `requests` module)
-        -   navigating HTML documents and extracting text
-        -   building a web corpus
-        -   accessing the genius.com API from Python
-
-
-## Week 9 - Incorporating Context Part 2: *Collocation*
-
--   Tue 10/22/24 - **Words *have* friends**
+-   Tue 10/15/24 - **Words *have* friends**
     -   *Topics*:
         -   Discovering meaning through context
         -   Comparing words through collocation
@@ -471,9 +443,15 @@ and modifying Python code examples that you can find on the web etc.
     -   **Readings**: *Baker Ch. 5*; *NLTK Book Ch. 4 (sections 1&2)*
         <http://www.nltk.org/book/ch03.html>
 
--   Thur 10/24/24 - **Lab session 7**
+-   **Assignment 5 DUE 11.59pm** - submit through JupyterHub
+
+-   Thur 10/17/24 - **Lab session 7**
     -   *Topics*:
-    -   Working on Final Projects
+    -   ****Working on Final Projects****
+        -   Deciding groups
+        -   Brainstorming possible ides
+            -   Come up with 2 or 3 possible topics
+            -   What would be RQs for each and the required data and types of analysis?
         -   Setting research question
         -   Thinking about corpora and collecting some pilot data
     
@@ -487,6 +465,39 @@ and modifying Python code examples that you can find on the web etc.
         -   displaying collocates as a network
 
 
+## Week 9 - Finding, building and using corpora - Part 2
+
+-   Tue 10/22/24 - **Online corpus compilation**
+    -   *Topics*:
+        -   Using APIs to compile a corpus (e.g., Genius.com, social media)
+        -   Understanding web page structures
+        -   HTML and CSS basics
+        -   Using web scraping and crawling to build a corpus
+    
+    -   *Coding*:
+        -   Using `requests` for web page and API access
+        -   Using `BeautifulSoup` to extract text from HTML
+        -   Accessing an API from Python
+        -   Working with JSON in Python
+    
+    -   **Readings**: *Baker Chs. 2*; *NLTK Book Ch. 3*
+        <http://www.nltk.org/book/ch03.html>
+
+-   **Assignment 6 DUE 11.59pm** - submit through JupyterHub
+
+-   Thur 10/24/24 - **Lab session 6**
+
+-   *Topics*:
+    -   ****Working on Final Projects****
+        -   Setting research question
+        -   Thinking about corpora and collecting some pilot data
+
+-   downloading web pages (using `requests` module)
+-   navigating HTML documents and extracting text
+-   building a web corpus
+-   accessing the genius.com API from Python
+
+
 ## Week 10 - Keyness Analysis
 
 -   Tue 10/29/24 - **Discovering distinctive vocabulary**
@@ -497,6 +508,8 @@ and modifying Python code examples that you can find on the web etc.
     
     -   **Readings**: *Baker Ch. 6*; *NLTK Book Ch. 4 (sections 3&4)*
         <http://www.nltk.org/book/ch04.html>
+    
+    -   **Assignment 7 DUE 11.59pm** - submit through JupyterHub
 
 -   Thur 10/31/24 - **Lab session 8**
     -   **Final Project Initial Presentations**
@@ -529,6 +542,8 @@ and modifying Python code examples that you can find on the web etc.
     -   **Readings**: *NLTK Book Ch. 1 (section 5)*
         (<http://www.nltk.org/book/ch01.html>) and *Ch. 5*
         (<http://www.nltk.org/book/ch05.html>)
+
+-   **Assignment 8 DUE 11.59pm** - submit through JupyterHub
 
 -   Thur 11/07/24 - Lab Session
     -   **Final Project**
