@@ -447,21 +447,18 @@ and modifying Python code examples that you can find on the web etc.
 
 -   Thur 10/17/24 - **Lab session 7**
     -   *Topics*:
-    -   ****Working on Final Projects****
-        -   Deciding groups
-        -   Brainstorming possible ides
+        -   **Working on Final Projects**
+            -   Deciding groups
+            -   Brainstorming possible ides
             -   Come up with 2 or 3 possible topics
             -   What would be RQs for each and the required data and types of analysis?
-        -   Setting research question
-        -   Thinking about corpora and collecting some pilot data
-    
-    -   calculating collocates
+        
+        -   calculating collocates
         -   from KWIC object (individual keyword)
         -   from collocates (e.g 2nd order collocates or collocates of
             collocates)
-            -   from all tokens
-    
-    -   building a collocate network
+        -   from all tokens
+        -   building a collocate network
         -   displaying collocates as a network
 
 
@@ -488,7 +485,7 @@ and modifying Python code examples that you can find on the web etc.
 -   Thur 10/24/24 - **Lab session 6**
 
 -   *Topics*:
-    -   ****Working on Final Projects****
+    -   **Working on Final Projects**
         -   Setting research question
         -   Thinking about corpora and collecting some pilot data
 
