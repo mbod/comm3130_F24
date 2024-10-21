@@ -452,7 +452,19 @@ and modifying Python code examples that you can find on the web etc.
             -   Brainstorming possible ides
             -   Come up with 2 or 3 possible topics
             -   What would be RQs for each and the required data and types of analysis?
-        
+
+
+## Week 9 - Collocation (cont.) and Finding, building and using corpora - Part 2
+
+-   Tue 10/22/24 - **Online corpus compilation**
+    -   *Topics*:
+        -   More on collocation and collocation networks
+        -   Using APIs to compile a corpus (e.g., Genius.com, social media)
+        -   Understanding web page structures
+        -   HTML and CSS basics
+        -   Using web scraping and crawling to build a corpus
+    
+    -   *Coding*:
         -   calculating collocates
         -   from KWIC object (individual keyword)
         -   from collocates (e.g 2nd order collocates or collocates of
@@ -460,18 +472,6 @@ and modifying Python code examples that you can find on the web etc.
         -   from all tokens
         -   building a collocate network
         -   displaying collocates as a network
-
-
-## Week 9 - Finding, building and using corpora - Part 2
-
--   Tue 10/22/24 - **Online corpus compilation**
-    -   *Topics*:
-        -   Using APIs to compile a corpus (e.g., Genius.com, social media)
-        -   Understanding web page structures
-        -   HTML and CSS basics
-        -   Using web scraping and crawling to build a corpus
-    
-    -   *Coding*:
         -   Using `requests` for web page and API access
         -   Using `BeautifulSoup` to extract text from HTML
         -   Accessing an API from Python
@@ -560,7 +560,7 @@ and modifying Python code examples that you can find on the web etc.
     
     -   *Coding*:
         -   Using VADER
-        -   Crowdsource lexicons
+        -   Crowdsourced lexicons
     
     -   **Final Project**
         -   Formulating testable hyotheses
