@@ -480,8 +480,6 @@ and modifying Python code examples that you can find on the web etc.
     -   **Readings**: *Baker Chs. 2*; *NLTK Book Ch. 3*
         <http://www.nltk.org/book/ch03.html>
 
--   **Assignment 6 DUE 11.59pm** - submit through JupyterHub
-
 -   Thur 10/24/24 - **Lab session 6**
 
 -   *Topics*:
@@ -506,7 +504,7 @@ and modifying Python code examples that you can find on the web etc.
     -   **Readings**: *Baker Ch. 6*; *NLTK Book Ch. 4 (sections 3&4)*
         <http://www.nltk.org/book/ch04.html>
     
-    -   **Assignment 7 DUE 11.59pm** - submit through JupyterHub
+    -   **Assignment 6 DUE 11.59pm** - submit through JupyterHub
 
 -   Thur 10/31/24 - **Lab session 8**
     -   **Final Project Initial Presentations**
@@ -539,8 +537,8 @@ and modifying Python code examples that you can find on the web etc.
     -   **Readings**: *NLTK Book Ch. 1 (section 5)*
         (<http://www.nltk.org/book/ch01.html>) and *Ch. 5*
         (<http://www.nltk.org/book/ch05.html>)
-
--   **Assignment 8 DUE 11.59pm** - submit through JupyterHub
+    
+    -   **Assignment 7 DUE 11.59pm** - submit through JupyterHub
 
 -   Thur 11/07/24 - Lab Session
     -   **Final Project**
@@ -568,6 +566,8 @@ and modifying Python code examples that you can find on the web etc.
         -   Formulating testable hyotheses
     
     -   **Readings**: *NLTK Book Ch. 6* (<http://www.nltk.org/book/ch06.html>)
+    
+    -   **Assignment 8 DUE 11.59pm** - submit through JupyterHub
 
 -   Thur 11/14/24 - **Sentiment classification**
     -   *Topics*:
