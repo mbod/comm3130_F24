@@ -507,7 +507,7 @@ and modifying Python code examples that you can find on the web etc.
     -   **Assignment 6 DUE 11.59pm** - submit through JupyterHub
 
 -   Thur 10/31/24 - **Lab session 8**
-    -   **Final Project Initial Presentations**
+    -   **Final Project Initial Presentations** (PART 1)
         -   Each project group will give a quick 3-5 minute overview of their
             research topic, planned corpus and analysis strategy
         -   3 or 4 slides
@@ -517,28 +517,31 @@ and modifying Python code examples that you can find on the web etc.
         -   Filtering and analyzing keyness lists
 
 
-## Week 11 - Introduction to NLP
+## Week 11 - Models and Metrics and Introduction to NLP
 
 -   Tue 11/05/24 - **Core concepts and techniques in NLP**
-    -   *Topics*:
-        -   NLP pipeline
-        -   Key tasks: POS tagging, parsing, sentiment analysis, anaphora
-            resolution, role identification
-        -   Example Applications
+    -   **Final Project Initial Presentations** (PART 2)
+        -   Each project group will give a quick 3-5 minute overview of their
+            research topic, planned corpus and analysis strategy
+        -   3 or 4 slides
+
+-   *Topics*:
+    -   NLP pipeline
+    -   Key tasks: POS tagging, parsing, sentiment analysis, anaphora
+        resolution, role identification
+    -   Example Applications
+
+-   *Coding*:
+    -   Using `nltk` module and functions
+        -   word tokenization
+        -   sentence segmentation
+        -   POS tagging
     
-    -   *Coding*:
-        -   Using `nltk` module and functions
-            -   word tokenization
-            -   sentence segmentation
-            -   POS tagging
-        
-        -   Filtering by POS categories
-    
-    -   **Readings**: *NLTK Book Ch. 1 (section 5)*
-        (<http://www.nltk.org/book/ch01.html>) and *Ch. 5*
-        (<http://www.nltk.org/book/ch05.html>)
-    
-    -   **Assignment 7 DUE 11.59pm** - submit through JupyterHub
+    -   Filtering by POS categories
+
+-   **Readings**: *NLTK Book Ch. 1 (section 5)*
+    (<http://www.nltk.org/book/ch01.html>) and *Ch. 5*
+    (<http://www.nltk.org/book/ch05.html>)
 
 -   Thur 11/07/24 - Lab Session
     -   **Final Project**
@@ -566,8 +569,8 @@ and modifying Python code examples that you can find on the web etc.
         -   Formulating testable hyotheses
     
     -   **Readings**: *NLTK Book Ch. 6* (<http://www.nltk.org/book/ch06.html>)
-    
-    -   **Assignment 8 DUE 11.59pm** - submit through JupyterHub
+
+-   **Assignment 7 DUE 11.59pm** - submit through JupyterHub
 
 -   Thur 11/14/24 - **Sentiment classification**
     -   *Topics*:
@@ -593,6 +596,7 @@ where?
         -   THIS SESSION WILL TAKE PLACE ON ZOOM
     
     -   VIDEO LECTURE **Identifying actors and actions in text**
+    
     -   *Topics*:
         -   Quick introduction to spaCy
             -   A state-of-the-art NLP pipeline
@@ -602,6 +606,8 @@ where?
         -   Finding who does what to whom in a corpus
     
     -   **Readings**: *NLTK Book Ch. 7* (<http://www.nltk.org/book/ch07.html>)
+
+-   **Assignment 8 DUE 11.59pm** - submit through JupyterHub
 
 -   Thur 11/21/24 - **Lab session 11**: Topic models and visualization
 
