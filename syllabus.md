@@ -570,8 +570,6 @@ and modifying Python code examples that you can find on the web etc.
     
     -   **Readings**: *NLTK Book Ch. 6* (<http://www.nltk.org/book/ch06.html>)
 
--   **Assignment 7 DUE 11.59pm** - submit through JupyterHub
-
 -   Thur 11/14/24 - **Sentiment classification**
     -   *Topics*:
         -   Building your own sentiment classifier
@@ -591,11 +589,10 @@ where?
 
 :CUSTOM<sub>ID</sub>: week-13&#x2014;nlp-named-entity-recognition-ner-who-what-when-and-where
 
--   Tue 11/19/24 - Lab Session (Zoom)
+-   Tue 11/19/24 - Lab Session
     -   Lab Session working on Group Projects
-        -   THIS SESSION WILL TAKE PLACE ON ZOOM
     
-    -   VIDEO LECTURE **Identifying actors and actions in text**
+    -   **Identifying actors and actions in text**
     
     -   *Topics*:
         -   Quick introduction to spaCy
@@ -606,8 +603,8 @@ where?
         -   Finding who does what to whom in a corpus
     
     -   **Readings**: *NLTK Book Ch. 7* (<http://www.nltk.org/book/ch07.html>)
-
--   **Assignment 8 DUE 11.59pm** - submit through JupyterHub
+    
+    -   **Assignment 7 DUE 11.59pm** - submit through JupyterHub
 
 -   Thur 11/21/24 - **Lab session 11**: Topic models and visualization
 
@@ -623,6 +620,8 @@ where?
         -   Extending collocation pairs to clusters of co-occuring terms
         -   Generative model of a corpus
         -   Examples
+    
+    -   **Assignment 8 DUE 11.59pm** - submit through JupyterHub
 
 -   Thur 11/28/24 - **NO CLASS: Thanksgiving Break**
 
