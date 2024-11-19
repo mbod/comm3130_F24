@@ -603,8 +603,6 @@ where?
         -   Finding who does what to whom in a corpus
     
     -   **Readings**: *NLTK Book Ch. 7* (<http://www.nltk.org/book/ch07.html>)
-    
-    -   **Assignment 7 DUE 11.59pm** - submit through JupyterHub
 
 -   Thur 11/21/24 - **Lab session 11**: Topic models and visualization
 
@@ -620,8 +618,6 @@ where?
         -   Extending collocation pairs to clusters of co-occuring terms
         -   Generative model of a corpus
         -   Examples
-    
-    -   **Assignment 8 DUE 11.59pm** - submit through JupyterHub
 
 -   Thur 11/28/24 - **NO CLASS: Thanksgiving Break**
 
